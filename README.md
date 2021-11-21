@@ -16,6 +16,8 @@
 - Time 
 - Webbrowser : To open external links
 
+Note: Remember to connect to your database first.
+
 Icons used in this program can be found at icons8.com
 
 Suggestions are welcome
