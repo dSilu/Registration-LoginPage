@@ -83,7 +83,7 @@ def login_center():
     if username_enter.get() == b and entered_password==a:
         check += 1
     else:
-        warn = 'Semms you are new here. Register to continue'
+        warn = 'Seems you are new here. Register to continue'
     
     if check == 2:
         try:
